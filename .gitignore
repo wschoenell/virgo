@@ -1,0 +1,5 @@
+*.csv
+*.pyc
+*.fit
+wget.sh
+.ipynb_checkpoints/
